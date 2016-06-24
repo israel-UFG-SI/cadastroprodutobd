@@ -18,6 +18,7 @@
           <td><input type="password" name="senha"></td>
         </tr>
       </table>
+      <input type="submit" value="não" onclick="location. href= 'pcadastro.jsp'">
         <input type="button" value="entrar" onclick="pcadastro.jsp" />
     </form>
     <b>${msg}</b>
